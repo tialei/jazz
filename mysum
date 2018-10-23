@@ -1,0 +1,6 @@
+#!/bin/bash
+
+For i in I DONT KNOW
+do
+    sum=i + sum
+done
